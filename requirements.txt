@@ -1,0 +1,11 @@
+# Comune (laptop + Raspberry Pi)
+ultralytics
+opencv-python
+numpy
+
+# Doar Raspberry Pi (comentate; scoate # pe Pi)
+# vl53l1x
+# gpiozero
+
+# Doar laptop, pentru a testa vocea (pe Pi se folosește espeak-ng sau Piper)
+# pyttsx3
